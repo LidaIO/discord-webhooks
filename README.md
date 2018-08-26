@@ -1,17 +1,13 @@
 # discord-webhooks
 
-Discord webhooks is a simple client for Discord's webhook API.
-
-### Motivation
-
-While this is probably "yet another" library for Discord's webhook system, I wanted to make my own. Discord doesn't support BitBucket's webhook system and the Slack compatible endpoint doesn't send a message.
+Discord webhooks is a simple client for Discord's webhook API. Originally developed by [https://github.com/nopjmp](https://github.com/nopjmp)
 
 ## Getting Started
 
 You can either copy the PHP file directly into your project or _preferable_ just use composer.
 
 #### Composer require command
-`composer require nopjmp/discord-webhooks`
+`composer require lida-io/discord-webhooks`
 
 ## Usage
 
