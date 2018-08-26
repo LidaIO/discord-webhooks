@@ -1,5 +1,5 @@
 {
-    "name": "nopjmp/discord-webhooks",
+    "name": "LidaIO/discord-webhooks",
     "description": "A simple Discord webhook client library.",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Kayla Thompson",
             "email": "jmp@const.ninja"
+        },
+        {
+            "name": "Ash",
+            "email": "ash@lida.io"
         }
     ],
     "require": {
