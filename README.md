@@ -1,6 +1,6 @@
 # discord-webhooks
 
-Discord webhooks is a simple client for Discord's webhook API. Originally developed by [https://github.com/nopjmp](https://github.com/nopjmp)
+Discord webhooks is a simple client for Discord's webhook API. Originally developed by [https://github.com/nopjmp](https://github.com/nopjmp).
 
 ## Getting Started
 
