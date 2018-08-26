@@ -1,5 +1,5 @@
 {
-    "name": "LidaIO/discord-webhooks",
+    "name": "lida-io/discord-webhooks",
     "description": "A simple Discord webhook client library.",
     "type": "library",
     "license": "MIT",
